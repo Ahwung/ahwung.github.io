@@ -2,7 +2,7 @@
 
 ## Link to live site
 
-ahwung.github.io
+https://ahwung.github.io
 
 ## Content of Website
 
